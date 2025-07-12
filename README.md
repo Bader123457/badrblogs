@@ -93,7 +93,7 @@ Created by **Badreldin Elsayed**, First Year Computer Science Student at the Uni
 
 ## Problems Faced
 Two main problems were faced building this project:  
-- At the beginning of working on this project I was facing very huge issues with pushing my commits, I had to use AI for that. 
+- At the beginning of working on this project I was facing very huge issues with pushing my commits. 
 - Faced a lot of difficulty implementing OpenAI API into my module, was able to overcome this problem but took a lot of time and hard work.  
 
 ## Tech Stack
