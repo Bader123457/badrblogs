@@ -105,3 +105,37 @@ Built with modern web technologies:
 - **Tailwind CSS** for responsive styling
 - **Supabase** for backend Edge Functions
 - **OpenAI** for AI-powered content generation
+
+
+## Project Showcase 
+
+
+### Main Page
+![Main Page](screenshots/Main-page(1).png)
+
+### Home Page
+![Home Page](screenshots/Home-Page(2).png)
+![Home Page](screenshots/Home-Page(3).png)
+
+### Blog Page
+![Blog Page](screenshots/Blog-page(1).png)
+
+### Blog Loading
+![Loading State](screenshots/Blog-page-loading.png)
+
+### About Page
+![About Page](screenshots/About-page(1).png)
+![About Page](screenshots/About-page(2).png)
+![About Page](screenshots/About-page(3).png)
+![About Page](screenshots/About-page(4).png)
+
+
+
+### Blog Content Example
+![Blog Content](screenshots/blog-content-screenshot.png)
+
+## 📄 Blog Example Text
+
+See the blog content example here: [blog-content.txt](screenshots/blog-content.txt)
+
+
